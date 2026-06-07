@@ -50,6 +50,9 @@ WordPress Dashboard → Plugins
 
 ## Example Output
 
+<img width="2940" height="1440" alt="image" src="https://github.com/user-attachments/assets/6f6d11e4-ccfc-4a06-9176-d1dbfda31a31" />
+
+
 ### Related Posts
 
 - How to Learn WordPress
